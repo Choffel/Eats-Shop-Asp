@@ -1,0 +1,7 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.Welcome h1
+{
+    text-align: center;
+    font-family: "Roboto Light", monospace;
+}

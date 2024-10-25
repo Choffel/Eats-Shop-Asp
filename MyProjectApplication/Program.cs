@@ -21,6 +21,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseStaticFiles(); // для обработки статических файлов
     
 app.UseHttpsRedirection();
 app.UseStaticFiles();
